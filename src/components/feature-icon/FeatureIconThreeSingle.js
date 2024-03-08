@@ -3,7 +3,7 @@ import clsx from "clsx";
 
 const FeatureIconThreeSingle = ({
   data,
-  spaceBottomClass,
+  spaceBottomClass, 
   featureShapeClass
 }) => {
   return (
